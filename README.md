@@ -1,4 +1,4 @@
-# quick-and-easy-colors-for-ios-apps
+# Quick and Easy Colors for iOS Apps
 Quick and Easy Colors for iOS Apps
 
 This is the demo project showing how to use UIColor and Swift's extensions feature to manage custom colors throughout your app's code.

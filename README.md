@@ -1,7 +1,7 @@
 # Quick and Easy Colors for iOS Apps
 This is the demo project showing how to use UIColor and Swift's extensions feature to manage custom colors throughout your app's code.
 
-Link to the Quick and Easy Colors for iOS Apps YouTube video is [here](https://youtu.be/7A0shbf1B9Y "Quick and Easy Colors for iOS Apps")
+Link to the Quick and Easy Colors for iOS Apps YouTube video is [here](https://youtu.be/uuZNSIW2SSQ "Quick and Easy Colors for iOS Apps")
 
 Link to the Bumbleparrot channel is [here](https://www.youtube.com/channel/UCoIBpoU4p5XdptaoeD6RUIg "Bumbleparrot YouTube Channel")
 
